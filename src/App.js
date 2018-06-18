@@ -12,3 +12,5 @@ class App extends Component {
 }
 
 export default App;
+На ветке master
+нечего коммитить, нет изменений в рабочем каталоге
